@@ -1,4 +1,3 @@
-//show only 4 images from the api and display them in the UI . create two buttons to navigate through the images. when the user clicks on the next button, it should show the next 4 images and when the user clicks on the previous button, it should show the previous 4 images. make sure to handle edge cases when there are no more images to show.
 import React from "react";
 
 
